@@ -35,18 +35,8 @@ Welcome to my GitHub profile! Below is a curated list of my projects, showcasing
 
 ## Skills & Technologies
 
-* Programming Languages:
-* Frameworks & Libraries:
-* Tools & Platforms:
+* Programming Languages: Kotlin , Python , C++
+
 
 ---
 
-## Contact Me
-
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-If you find my work interesting, feel free to explore the repositories and share feedback.

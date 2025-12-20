@@ -36,7 +36,7 @@ Welcome to my GitHub profile! Below is a curated list of my projects, showcasing
 ## Skills & Technologies
 
 * Programming Languages: Kotlin , Python , C++
-
+* Tech : ESP32, MPU6050, GPS NEO 6M
 
 ---
 
